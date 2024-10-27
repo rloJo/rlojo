@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td> <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/Eunwoo.jpg" width ="300" height ="400"> </td>
+        <td> <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/Eunwoo.jpg" width ="400" height ="200"> </td>
         <td>  Birth** *1999.12.16* 
              **✉️ E-Mail** lew991216@gmail.com
              🐱 **Github** https://github.com/rloJo
