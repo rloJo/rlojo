@@ -3,9 +3,9 @@
 <table>
     <tr>
         <td> <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/Eunwoo.jpg" width ="155" height ="200"> </td>
-        <td>  Birth** *1999.12.16* 
-             **✉️ E-Mail** lew991216@gmail.com
-             🐱 **Github** https://github.com/rloJo
+        <td>  🎂<b>Birth</b> <i>1999.12.16</i> 
+             <br>✉️ <b>E-Mail</b> lew991216@gmail.com
+             <br>  🐱 <b>Github</b> <a href = "https://github.com/rloJo"> https://github.com/rloJo </a>
         </td>
     </tr>
 
@@ -16,22 +16,18 @@
 
 
 
-## Activities
-
-|:-----------------:|:-----------------------:|
-| 컴퓨터 그래픽스 연구생      | 교내 그래픽스 학부 연구생|
-| 2022.09 ~ 2024.01 | OpenGL 및 Modern C++ 학습 |
-|                   |                         | 
-| 컴퓨터 프로그래밍 TA 조교   | C언어 전공 과목 실습 조교 | 
-| 2023.08 ~ 2023.12 | 실습 중 발생하는 문제 해결 및 질의 응답 |
-
-
-[Skills and Tools](https://www.notion.so/128d288e0b6381209a93dee43cc9f094?pvs=21)
-
-[Awards](https://www.notion.so/128d288e0b6381c4b2bce3b70395c4c4?pvs=21)
+## **대내외 활동**
+---
+- 컴퓨터 그래픽스 학부 연구생(2022.09. ~ 2024.01)
+  - OpenGL 및 Modern C++ 학습
+  - 변형체 볼륨 가시화 프로젝트 진행
+ 
+- 컴퓨터 프로그래밍 TA 조교(2023.08. ~ 2023.12 )
+  - C언어 전공 과목 실습 조교
+  - 실습 중 발생하는 문제 해결 및 질의 응답
 
 
-## **📝 Projects**
+## **📝 프로젝트**
 
 ---
 1️⃣ [변형체 볼륨 가시화](https://github.com/rloJo/BuFF)  
@@ -40,18 +36,20 @@
 4️⃣ [TankSlash](https://github.com/rloJo/TankSlash)  
 5️⃣ [AR가구서비스](https://github.com/rloJo/ARService)  
 
+## **🏆 수상**
+---
+- 캡스톤 디자인 장려상 (2023.06.02)
+  - 주관 : 한성대학교
 
 
-
-
-## **📜 Paper**
+## **📜 논문**
 
 ---
 
 - NeRF를 이용한 실시간 볼륨 변형체 가시화
     - 한국 차세대 컴퓨팅 학회 (2024.06)
 
-## 🏅 Certifications
+## 🏅 자격증
 
 ---
 
@@ -59,7 +57,7 @@
     - 한국산업인력공단
     - 지격번호 :  **23203020402X**
 
-## 📖 Educations
+## 📖 학력
 
 ---
 
