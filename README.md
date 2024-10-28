@@ -37,7 +37,7 @@
     </tr>
     <tr>
         <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BuFF.PNG" alt="변형체 볼륨가시화 프로젝트 이미지" width="400" height="225"; /></th>
-        <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/SNS.png" alt="SNS 한스타그램 프로젝트 이미지" width="200" height="400" /></th>
+        <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/SNS.png" alt="SNS 한스타그램 프로젝트 이미지" width="175" height="350" /></th>
     </tr>
     <tr>
         <th style="text-align: center"> <a href = "https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG"> 3️⃣ [버스 모니터링 시스템] </a> </th>
