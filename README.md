@@ -48,12 +48,12 @@
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"> <a href = "https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG"> 3️⃣ [버스 모니터링 시스템] </a> </th>
+        <th style="text-align: center"> <a href = "https://github.com/rloJo/BusMonitoringSystem"> 3️⃣ [버스 모니터링 시스템] </a> </th>
         <th style="text-align: center"> <a href = "https://github.com/rloJo/TankSlash"> 4️⃣ [TankSlash] </a></th>
     </tr>
     <tr>
         <th style="text-align: center">
-            <a href = "https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG">
+            <a href = "https://github.com/rloJo/BusMonitoringSystem">
                 <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG" alt="버스 모니터링 시스템 프로젝트 이미지" width="400" height="400" />
             </a>
         </th>
