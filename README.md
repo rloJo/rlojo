@@ -36,22 +36,42 @@
         <th style="text-align: center">  <a href = "https://github.com/rloJo/Android_SNS_Project"> 2️⃣ [SNS 한스타그램] </a></th>
     </tr>
     <tr>
-        <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BuFF.PNG" alt="변형체 볼륨가시화 프로젝트 이미지" width="400" height="225"; /></th>
-        <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/SNS.png" alt="SNS 한스타그램 프로젝트 이미지" width="175" height="350" /></th>
+        <th style="text-align: center">
+             <a href = "https://github.com/rloJo/BuFF">
+                <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BuFF.PNG" alt="변형체 볼륨가시화 프로젝트 이미지" width="400" height="225"; />
+             </a>
+        </th>
+        <th style="text-align: center">
+             <a href = "https://github.com/rloJo/Android_SNS_Project">
+                <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/SNS.png" alt="SNS 한스타그램 프로젝트 이미지" width="175" height="350" />
+             </a>
+        </th>
     </tr>
     <tr>
         <th style="text-align: center"> <a href = "https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG"> 3️⃣ [버스 모니터링 시스템] </a> </th>
         <th style="text-align: center"> <a href = "https://github.com/rloJo/TankSlash"> 4️⃣ [TankSlash] </a></th>
     </tr>
     <tr>
-        <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG" alt="버스 모니터링 시스템 프로젝트 이미지" width="400" height="400" /></th>
-        <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/TankSlash.PNG" alt="TankSlash 프로젝트 이미지" width="350" height="350" /></th>
+        <th style="text-align: center">
+            <a href = "https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG">
+                <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BMS.PNG" alt="버스 모니터링 시스템 프로젝트 이미지" width="400" height="400" />
+            </a>
+        </th>
+        <th style="text-align: center">
+            <a href = "https://github.com/rloJo/TankSlash">
+                <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/TankSlash.PNG" alt="TankSlash 프로젝트 이미지" width="350" height="350" />
+            </a>
+        </th>
     </tr>
      <tr>
         <th style="text-align: center"> <a href = "https://github.com/rloJo/ARService"> 5️⃣ [AR가구서비스] </a> </th>
     </tr>
     <tr>
-        <th style="text-align: center"><img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/AR.png" alt="AR 가구 서비스 프로젝트 이미지" width="400" height="300" /></th>
+        <th style="text-align: center">
+             <a href = "https://github.com/rloJo/ARService">
+            <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/AR.png" alt="AR 가구 서비스 프로젝트 이미지" width="400" height="300" />
+             </a>
+        </th>
     </tr>
 </table>    
 
