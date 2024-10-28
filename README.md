@@ -30,11 +30,30 @@
 ## **📝 프로젝트**
 
 ---
-1️⃣ [변형체 볼륨 가시화](https://github.com/rloJo/BuFF)  
-2️⃣ [SNS](https://github.com/rloJo/Android_SNS_Project)  
-3️⃣ [버스모니터링시스템](https://github.com/rloJo/BusMonitoringSystem)  
-4️⃣ [TankSlash](https://github.com/rloJo/TankSlash)  
-5️⃣ [AR가구서비스](https://github.com/rloJo/ARService)  
+<table>
+    <tr>
+        <th style="text-align: center"> <a href = "https://github.com/rloJo/BuFF"> 1️⃣ [변형체 볼륨 가시화] </a> </th>
+        <th style="text-align: center">  <a href = "https://github.com/rloJo/Android_SNS_Project"> 2️⃣ [SNS 한스타그램] </a></th>
+    </tr>
+    <tr>
+        <th style="text-align: center"><img src="https://github.com/HSUProject/BuFF/blob/main/docs/assets_readme/Before02.jpg" alt="Before" style="zoom:80%;" /></th>
+        <th style="text-align: center"><img src="https://github.com/HSUProject/BuFF/blob/main/docs/assets_readme/After02.jpg" alt="After" style="zoom:80%;" /></th>
+    </tr>
+    <tr>
+        <th style="text-align: center"> <a href = "https://github.com/rloJo/BusMonitoringSystem"> 3️⃣ [버스모니터링시스템] </a> </th>
+        <th style="text-align: center"> <a href = "https://github.com/rloJo/TankSlash"> 4️⃣ [TankSlash] </a></th>
+    </tr>
+    <tr>
+        <th style="text-align: center"><img src="https://github.com/HSUProject/BuFF/blob/main/docs/assets_readme/Before02.jpg" alt="Before" style="zoom:80%;" /></th>
+        <th style="text-align: center"><img src="https://github.com/HSUProject/BuFF/blob/main/docs/assets_readme/After02.jpg" alt="After" style="zoom:80%;" /></th>
+    </tr>
+     <tr>
+        <th style="text-align: center"> <a href = "https://github.com/rloJo/BusMonitoringSystem](https://github.com/rloJo/ARService)"> 5️⃣ [AR가구서비스] </a> </th>
+    </tr>
+    <tr>
+        <th style="text-align: center"><img src="https://github.com/HSUProject/BuFF/blob/main/docs/assets_readme/Before02.jpg" alt="Before" style="zoom:80%;" /></th>
+    </tr>
+</table>    
 
 ## **🏆 수상**
 ---
