@@ -32,13 +32,13 @@
 ---
 <table>
     <tr>
-        <th style="text-align: center"> <a href = "https://github.com/rloJo/BuFF"> 1️⃣ [변형체 볼륨 가시화] </a> </th>
+        <th style="text-align: center"> <a href = "https://github.com/rloJo/BuFF"> 1️⃣ [실시간 볼륨 변형체 가시화] </a> </th>
         <th style="text-align: center">  <a href = "https://github.com/rloJo/Android_SNS_Project"> 2️⃣ [SNS 한스타그램] </a></th>
     </tr>
     <tr>
         <th style="text-align: center">
              <a href = "https://github.com/rloJo/BuFF">
-                <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BuFF.PNG" alt="변형체 볼륨가시화 프로젝트 이미지" width="400" height="225"; />
+                <img src="https://github.com/rloJo/rlojo/blob/main/ReadmeAsset/BuFF.PNG" alt="실시간 볼륨 변형체 가시 프로젝트 이미지" width="400" height="225"; />
              </a>
         </th>
         <th style="text-align: center">
@@ -79,6 +79,7 @@
 ---
 - 캡스톤 디자인 장려상 (2023.06.02)
   - 주관 : 한성대학교
+  - 프로젝트 내용 :  <a href = "https://github.com/rloJo/BuFF"> 실시간 볼륨 변형체 가시화 </a>
 
 
 ## **📜 논문**
@@ -87,6 +88,7 @@
 
 - NeRF를 이용한 실시간 볼륨 변형체 가시화
     - 한국 차세대 컴퓨팅 학회 (2024.06)
+    -  - 프로젝트 내용 :  <a href = "https://github.com/rloJo/BuFF"> 실시간 볼륨 변형체 가시화 </a>
 
 ## 🏅 자격증
 
